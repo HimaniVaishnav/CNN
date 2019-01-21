@@ -1,5 +1,3 @@
-# About
-This the code, which I used in my presentation in PyCon Finalnd 2016.
 
 # Dependencies
 
